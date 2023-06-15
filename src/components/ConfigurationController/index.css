@@ -1,0 +1,31 @@
+.top-container {
+  height: 50vh;
+  background-color: #475569;
+  padding: 2px;
+}
+@media screen and (min-width: 768px) {
+  .top-container {
+    height: 25vh;
+    background-color: #475569;
+    padding: 2px;
+  }
+}
+.top-heading {
+  width: 85%;
+  margin: 20px auto;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 500;
+}
+.input-container {
+  width: 85%;
+  margin: 3px auto;
+}
+.label {
+  font-family: Roboto;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-left: 10px;
+}
